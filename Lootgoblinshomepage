@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Loot Goblins - Gamer Friends</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      /* Styling for the header */
+      header {
+        background-color: #333;
+        color: white;
+        padding: 15px;
+        text-align: center;
+      }
+
+      /* Styling for the content */
+      article {
+        padding: 20px;
+      }
+
+      /* Styling for the footer */
+      footer {
+        background-color: #333;
+        color: white;
+        padding: 10px;
+        text-align: center;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Loot Goblins</h1>
+      <p>A group of gamer friends</p>
+    </header>
+
+    <article>
+      <h2>About Us</h2>
+      <p>We are a group of friends who share a passion for gaming. Our favorite games include DayZ, Scum, and The Forest.</p>
+      <p>Join us on our adventures, raid battles, and epic loot hunts!</p>
+	  
+      <h2>Founding Members</h2>
+      <ul>
+        <li>GroceryGobbler</li>
+        <li>YaboyTwinks</li>
+        <li>Ikkin</li>
+		<li><img src="latuya-LG-RDR2crop.jpg" alt="Our group photo" width="50%" height="50%"></li>
+      </ul>
+
+      <h2>Contact Us</h2>
+      <p>Feel free to contact us with any questions or suggestions on <a href="https://discord.gg/6ZXpjxJg">Discord</a> 
+	  or by email at <a href="mailto:thereallootgoblins@gmail">thereallootgoblins@gmail.com</a>.</p>
+    </article>
+
+  </body>
+    
+</html>
